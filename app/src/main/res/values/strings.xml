@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BroadcastReciverPractice_meet_4</string>
+    <string name="button_get_state">Get State</string>
+    <string name="button_update_state">Update State</string>
+    <string name="text_current_state">Current State</string>
+    <string name="text_state_unknown">Unknown</string>
+    <string name="filter_send_messages">com.practice.olegtojgildin.SEND_MESSAGES_FILTER</string>
+    <string name="permission_send_messages">com.practice.olegtojgildin.SEND_MESSAGES_PERMISSION</string>
+
+</resources>
